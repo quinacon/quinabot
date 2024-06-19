@@ -18,5 +18,6 @@ module.exports = {
         "openai.com",
         "archive.org",
         "reddit.com",
+        "discord.com"
     ]
 };
