@@ -17,6 +17,6 @@ module.exports = {
         "chatgpt.com",
         "openai.com",
         "archive.org",
-        "reddit",
+        "reddit.com",
     ]
 };
